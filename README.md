@@ -23,3 +23,7 @@ For now, I only have the concept laid out. Diagrams will be provided once they a
 1. Release 1.0
 1. ???
 1. Profit.
+
+## The Website ([textrpgengine.com](https://textrpgengine.com))
+### Case Diagram
+![](Text%20RPG%20Engine%20-%20CASE%20DIAGRAM.png)
