@@ -10,7 +10,7 @@ First create your story. Layout your rules, characters, weapons, factions, etc. 
 For now, I only have the concept laid out. Diagrams will be provided once they are fleshed out and finished. Later, mockups for the app will be released.
 
 ## Roadmap
-1. Flesh out UI flow and data structures.
+1. Flesh out UI flow and data structures. <--- We Are Here
 1. Provide mockups for the engine.
 1. Flesh out engine before beta release.
 1. Beta release at [textrpgengine.com](http://www.textrpgengine.com)
